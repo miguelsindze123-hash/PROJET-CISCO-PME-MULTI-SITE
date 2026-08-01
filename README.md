@@ -67,12 +67,4 @@ Détail complet du calcul VLSM : [`DETAILLE DE LA DOCUMENTATION/02-etude-vlsm.md
 
 Le VLAN Direction (10) n'est accessible qu'au service Informatique (VLAN 30) via une ACL étendue appliquée sur R-BFS. Détails et commandes : [`DOCUMENTATION DETAILLE/05-securite.md`](DOCUMENTATION DETAILLE/05-securite.md).
 
-## Comment utiliser ce dépôt
 
-1. Ouvrir un simulateur compatible IOS (Cisco Packet Tracer ou GNS3) et construire la topologie décrite dans [`diagramme/Architecture.PNG`](diagramme/Architecture.PNG).
-2. Copier-coller le contenu de chaque fichier `.cfg` du dossier [`configuration/`](configuration/) dans le mode de configuration globale (`configure terminal`) de l'équipement correspondant.
-3. Vérifier la connectivité et les services à l'aide du protocole de tests décrit dans [`DOCUMENTATION DETAILLE/06-tests-validation.md`](docs/06-tests-validation.md).
-
-## Documentation complète
-
-Le rapport technique complet (présentation, analyse des besoins, choix techniques, VLSM, plan d'adressage, configurations, tests, difficultés rencontrées, recommandations) est disponible dans [`Rapport_Technique_CK237`](Rapport_Technique_CK237.docx), [`Rapport_Technique_CK237.docx`](Rapport_Technique_CK237.docx).
