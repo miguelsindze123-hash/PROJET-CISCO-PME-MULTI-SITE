@@ -1,6 +1,6 @@
 # 4. Schéma réseau
 
-![Topologie réseau CK_237](../DIAGRAMME/Architecture.PNG)
+![../DIAGRAMME/Architecture.PNG](../DIAGRAMME/Architecture.PNG)
 
 ## Description de la topologie
 
