@@ -61,7 +61,7 @@ Chaque site repose sur un routeur assurant le routage inter-VLAN (sous-interface
 | 50 | Support Technique | 192.168.11.128/28 | 255.255.255.240 | 192.168.11.129 |
 | — | Liaison WAN vers Douala | 192.168.10.176/30 | 255.255.255.252 | — |
 
-Détail complet du calcul VLSM : [`DOCUMENTATION DETAILLE/02-etude-vlsm.md`](docs/02-etude-vlsm.md). Table d'adressage complète (équipements, serveurs, postes) : [`DOCUMENTATION DETAILLE/03-plan-adressage.md`](docs/03-plan-adressage.md).
+Détail complet du calcul VLSM : [`DETAILLE DE LA DOCUMENTATION/02-etude-vlsm.md`](docs/02-etude-vlsm.md). Table d'adressage complète (équipements, serveurs, postes) : [`DETAILLE DE LA DOCUMENTATION/03-plan-adressage.md`](docs/03-plan-adressage.md).
 
 ## Politique de sécurité
 
