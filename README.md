@@ -32,7 +32,7 @@ L'entreprise **CK_237** est une PME en croissance disposant de deux sites : Bafo
 
 ## Architecture
 
-![Topologie réseau CK_237](diagramme/Architecture.PNG)
+![..diagramme/Architecture.PNG](..diagramme/Architecture.PNG)
 Chaque site repose sur un routeur assurant le routage inter-VLAN (sous-interfaces 802.1Q, *router-on-a-stick*) relié en trunk à un commutateur d'accès. Les deux routeurs de site sont interconnectés par une liaison WAN série sur laquelle tourne OSPF (zone 0).
 
 | Site | Routeur | Commutateur | VLAN | Serveur |
